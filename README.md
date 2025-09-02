@@ -22,7 +22,7 @@
 
 ---
 ## 🔗 Live Demo
-👉 [View Live Project]((https://world-movix.vercel.app/))
+👉 [View Live Project]([https://world-movix.vercel.app/])
 
 
 ## 🚀 Getting Started
