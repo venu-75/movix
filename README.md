@@ -21,6 +21,9 @@
 - **TMDB API** – Data source  
 
 ---
+## 🔗 Live Demo
+👉 [View Live Project]((https://world-movix.vercel.app/))
+
 
 ## 🚀 Getting Started
 
